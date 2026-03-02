@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog</title>
-    <link>https://yujiwei-777.github.io/</link>
+    <title>立创LCSC on blog</title>
+    <link>https://yujiwei-777.github.io/tags/%E7%AB%8B%E5%88%9Blcsc/</link>
     <description>Recent content from blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Mon, 02 Mar 2026 15:20:00 +0800</lastBuildDate>
     
     
-    <atom:link href="https://yujiwei-777.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://yujiwei-777.github.io/tags/%E7%AB%8B%E5%88%9Blcsc/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -36,24 +36,6 @@
       </description>
       
         <category>电子工程</category><category>物料采购</category>
-      
-    </item>
-    
-    
-
-    <item>
-      <title>Hello World</title>
-      <link>https://yujiwei-777.github.io/post/hello/</link>
-      <pubDate>Sun, 15 Feb 2026 11:00:00 -0700</pubDate>
-      <author>2234300558@example.com (于济伟)</author>
-      <guid>https://yujiwei-777.github.io/post/hello/</guid>
-      <description>
-        <![CDATA[<h1>Hello World</h1><p>作者：于济伟（2234300558@example.com）</p>
-        
-          <p>💘 博麗 霊夢 💘</p>
-        
-        <hr><p>本文2026-02-15首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于2026-02-15</p>]]>
-      </description>
       
     </item>
     
