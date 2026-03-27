@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>桌面应用 on blog</title>
+    <link>https://yujiwei-777.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</link>
+    <description>Recent content from blog</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>2234300558@example.com (于济伟)</managingEditor>
+    <webMaster>2234300558@example.com (于济伟)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Fri, 27 Mar 2026 16:30:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://yujiwei-777.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>Python宿舍电费查询工具开发实战，一键运行免配置</title>
+      <link>https://yujiwei-777.github.io/post/excel/</link>
+      <pubDate>Fri, 27 Mar 2026 16:00:00 &#43;0800</pubDate>
+      <author>2234300558@example.com (于济伟)</author>
+      <guid>https://yujiwei-777.github.io/post/excel/</guid>
+      <description>
+        <![CDATA[<h1>Python宿舍电费查询工具开发实战，一键运行免配置</h1><p>作者：于济伟（2234300558@example.com）</p>
+        
+          基于Python Tkinter开发宿舍电费查询工具，支持自动查询、低电量提醒、数据可视化及多平台推送，免配置可直接运行，适配Windows系统。
+        
+        <hr><p>本文2026-03-27首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于2026-03-27</p>]]>
+      </description>
+      
+        <category>Python项目</category><category>实用工具开发</category>
+      
+    </item>
+    
+  </channel>
+</rss>
