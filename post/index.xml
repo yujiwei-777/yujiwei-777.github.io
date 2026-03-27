@@ -42,6 +42,26 @@
     
 
     <item>
+      <title>Python宿舍电费查询工具开发实战，一键运行免配置</title>
+      <link>https://yujiwei-777.github.io/post/elesearch/</link>
+      <pubDate>Fri, 27 Mar 2026 16:00:00 &#43;0800</pubDate>
+      <author>2234300558@example.com (于济伟)</author>
+      <guid>https://yujiwei-777.github.io/post/elesearch/</guid>
+      <description>
+        <![CDATA[<h1>Python宿舍电费查询工具开发实战，一键运行免配置</h1><p>作者：于济伟（2234300558@example.com）</p>
+        
+          基于Python Tkinter开发宿舍电费查询工具，支持自动查询、低电量提醒、数据可视化及多平台推送，免配置可直接运行，适配Windows系统。
+        
+        <hr><p>本文2026-03-27首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于2026-03-27</p>]]>
+      </description>
+      
+        <category>Python项目</category><category>实用工具开发</category>
+      
+    </item>
+    
+    
+
+    <item>
       <title>Hello World</title>
       <link>https://yujiwei-777.github.io/post/hello/</link>
       <pubDate>Sun, 15 Feb 2026 11:00:00 -0700</pubDate>
@@ -53,113 +73,6 @@
           <p>💘 博麗 霊夢 💘</p>
         
         <hr><p>本文2026-02-15首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于2026-02-15</p>]]>
-      </description>
-      
-    </item>
-    
-    
-
-    <item>
-      <title></title>
-      <link>https://yujiwei-777.github.io/post/elesearch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-      <author>2234300558@example.com (于济伟)</author>
-      <guid>https://yujiwei-777.github.io/post/elesearch/</guid>
-      <description>
-        <![CDATA[<h1></h1><p>作者：于济伟（2234300558@example.com）</p>
-        
-          <p>title: &ldquo;Python宿舍电费查询工具开发实战，一键运行免配置&rdquo;</p>
-<p>date: 2026-03-27T16:00:00+08:00</p>
-<p>lastmod: 2026-03-27T16:00:00+08:00</p>
-<p>draft: false</p>
-<p>tags: [&ldquo;Python&rdquo;, &ldquo;Tkinter&rdquo;, &ldquo;桌面应用&rdquo;, &ldquo;校园工具&rdquo;, &ldquo;电费查询&rdquo;]</p>
-<p>categories: [&ldquo;Python项目&rdquo;, &ldquo;实用工具开发&rdquo;]</p>
-<p>description: &ldquo;基于Python Tkinter开发的宿舍电费查询工具，支持自动查询、低电量提醒、数据可视化、多平台消息推送，可直接运行打包为EXE&rdquo;</p>
-<p>keywords: [&ldquo;Python电费查询&rdquo;, &ldquo;Tkinter桌面应用&rdquo;, &ldquo;校园实用工具&rdquo;]</p>
-<hr>
-<p>前言</p>
-<p>最近。宿舍电量消耗巨大，，我用Python结合Tkinter GUI框架，开发了这款全功能宿舍电费查询工具，无需复杂配置，复制代码即可运行，支持手动查询、后台自动监测、低电量提醒、用电数据统计、多平台消息推送等功能，还能打包成EXE文件，无Python环境也能正常使用，适配Windows系统，贴合校园日常使用场景。</p>
-<hr>
-<p>工具核心功能</p>
-<ul>
-<li>
-<p><strong>双电费查询</strong>：同步查询普通用电电费与空调电费，区分清晰一目了然</p>
-</li>
-<li>
-<p><strong>自动后台监测</strong>：12小时自动查询一次，后台静默运行不占用桌面</p>
-</li>
-<li>
-<p><strong>双重低电提醒</strong>：支持自定义低电量阈值、紧急充电阈值，搭配系统提示音+弹窗双重提醒</p>
-</li>
-<li>
-<p><strong>多房间管理</strong>：批量添加宿舍房间，一键切换查询，无需重复输入信息</p>
-</li>
-<li>
-<p><strong>用电数据统计</strong>：自动计算日均用电量、剩余可用天数，生成月度用电账单</p>
-</li>
-<li>
-<p><strong>数据可视化</strong>：生成12小时时段用电柱状图，直观查看用电情况</p>
-</li>
-<li>
-<p><strong>数据管理</strong>：支持历史记录保存、CSV导出、数据备份与清空</p>
-</li>
-<li>
-<p><strong>多平台推送</strong>：接入微信、钉钉、QQ机器人推送，低电量远程也能收到提醒</p>
-</li>
-<li>
-<p><strong>体验优化</strong>：浅色深色双主题切换，支持最小化到系统托盘，搭配快捷键快速查询</p>
-</li>
-</ul>
-<hr>
-<p>技术栈与依赖安装</p>
-<p>所用技术栈详解</p>
-<p>本工具采用Python作为开发语言，核心技术栈围绕“GUI交互+网络请求+数据处理+系统适配”展开，各技术模块各司其职、协同工作，确保工具稳定、高效运行，以下是各技术的详细解析：</p>
-<ul>
-<li>GUI框架：tkinter + ttk（内置，无需额外安装）</li>
-</ul>
-<p>核心作用：构建工具的可视化界面，实现用户与工具的交互。tkinter是Python内置的GUI框架，轻量、易上手，无需额外安装依赖，适配Windows系统，完美满足校园工具“免配置”的核心需求；ttk是tkinter的扩展模块，提供更美观的组件（如组合框、按钮、框架），解决了原生tkinter组件样式单一的问题，同时支持主题切换，为浅色/深色双主题功能提供技术支撑。</p>
-<p>关键应用：页面布局（分区域设计查询区、结果区、按钮区）、组件绑定（下拉框选择、按钮点击事件、主题切换触发）、文本显示（电费信息、操作提示），所有用户可见的交互元素均基于此实现。</p>
-<ul>
-<li>网络请求：requests
-核心作用：模拟浏览器发送HTTP请求，获取校园电费查询网页的内容。校园电费系统为网页端，无公开API，因此需要通过requests模拟用户登录、查询的操作，获取页面中的电费数据。</li>
-</ul>
-<p>关键应用：建立会话（Session）保持请求状态，避免重复登录；设置请求头（User-Agent）模拟浏览器，防止被服务器拦截；发送GET请求获取网页视图状态（VIEWSTATE），发送POST请求提交楼号、房间号等查询参数，实现电费数据的抓取。</p>
-<ul>
-<li>网页解析：BeautifulSoup4
-核心作用：解析requests获取的网页HTML内容，提取出需要的电费数据。网页返回的是杂乱的HTML代码，通过BeautifulSoup4的标签定位、文本提取功能，筛选出电费数值、错误提示等关键信息。</li>
-</ul>
-<p>关键应用：定位网页中的隐藏域（__VIEWSTATE、__EVENTVALIDATION），用于构造POST请求参数；定位电费显示表格（yongdianGrid），提取普通电费、空调电费的数值；定位错误提示标签（txtErr），捕获“房间号错误”“无数据”等异常情况，提升用户体验。</p>
-<ul>
-<li>数据处理：json + pandas
-核心作用：实现数据的存储、读取和统计分析。json用于轻量级数据存储（如房间信息、查询历史、系统设置），将数据以JSON格式写入本地文件，便于读取和修改；pandas用于复杂数据统计（如日均用电量、月度账单），处理大量查询历史数据，高效计算用电相关指标。</li>
-</ul>
-<p>关键应用：json存储默认房间、多房间列表、低电量阈值等配置信息，实现“重启工具保留配置”；pandas读取历史查询数据，按日期、月份分组，计算日均用电量、月度总用电量，为数据可视化和用电统计功能提供数据支撑。</p>
-<ul>
-<li>可视化图表：matplotlib
-核心作用：将查询历史数据转化为直观的柱状图，方便用户查看用电趋势。matplotlib是Python主流的数据可视化库，支持多种图表类型，此处用于生成12小时时段用电柱状图，清晰展示不同时段的用电量差异。</li>
-</ul>
-<p>关键应用：设置中文字体（SimHei），解决图表中文乱码问题；提取有效历史数据，按12小时时段分组（06:00-18:00、18:00-次日06:00），计算各时段用电量；绘制柱状图，添加数值标签、标题、坐标轴说明，提升图表可读性，同时将图表嵌入Tkinter界面，实现“点击按钮查看图表”的交互。</p>
-<ul>
-<li>
-<p>系统功能：threading + winsound + pystray</p>
-</li>
-<li>
-<p>threading（多线程）：核心用于实现“后台自动查询”功能。开启独立线程运行自动查询逻辑，避免阻塞主线程（GUI界面），确保用户在使用工具其他功能时，自动查询仍能后台静默运行，每12小时执行一次查询操作。</p>
-</li>
-<li>
-<p>winsound（系统提示音）：实现低电量提醒的声音反馈，当电费低于阈值时，播放不同频率、时长的提示音（普通低电800Hz/500ms，紧急低电1000Hz/800ms），强化提醒效果。</p>
-</li>
-<li>
-<p>pystray（系统托盘）：实现工具“最小化到托盘”功能，关闭窗口时不退出程序，仅最小化到系统托盘，点击托盘图标可重新显示窗口、退出程序，提升工具的实用性和后台运行体验。</p>
-</li>
-<li>
-<p>快捷键：keyboard
-核心作用：实现快捷键快速查询功能，用户无需点击按钮，通过预设快捷键（如Ctrl+Q）即可触发电费查询，提升操作效率。</p>
-</li>
-</ul>
-<p>关键应用：绑定快捷键事件，监听用户按键操作，当检测到预设快捷键时，自动执行查询逻辑，返回电费结果，适配用户快速操作的需求。</p>
-        
-        <hr><p>本文0001-01-01首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于0001-01-01</p>]]>
       </description>
       
     </item>
