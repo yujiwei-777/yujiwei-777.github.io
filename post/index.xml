@@ -23,10 +23,10 @@
 
     <item>
       <title>Python宿舍电费查询工具开发实战，一键运行免配置</title>
-      <link>https://yujiwei-777.github.io/post/excel/</link>
+      <link>https://yujiwei-777.github.io/post/elesearch/</link>
       <pubDate>Fri, 27 Mar 2026 16:00:00 &#43;0800</pubDate>
       <author>2234300558@example.com (于济伟)</author>
-      <guid>https://yujiwei-777.github.io/post/excel/</guid>
+      <guid>https://yujiwei-777.github.io/post/elesearch/</guid>
       <description>
         <![CDATA[<h1>Python宿舍电费查询工具开发实战，一键运行免配置</h1><p>作者：于济伟（2234300558@example.com）</p>
         
@@ -42,20 +42,20 @@
     
 
     <item>
-      <title>Python宿舍电费查询工具开发实战，一键运行免配置</title>
-      <link>https://yujiwei-777.github.io/post/elesearch/</link>
-      <pubDate>Fri, 27 Mar 2026 16:00:00 &#43;0800</pubDate>
+      <title>校园卡电子元件采购清单（立创 LCSC 可直购 | 按序编号版）</title>
+      <link>https://yujiwei-777.github.io/post/excel/</link>
+      <pubDate>Mon, 02 Mar 2026 15:00:00 &#43;0800</pubDate>
       <author>2234300558@example.com (于济伟)</author>
-      <guid>https://yujiwei-777.github.io/post/elesearch/</guid>
+      <guid>https://yujiwei-777.github.io/post/excel/</guid>
       <description>
-        <![CDATA[<h1>Python宿舍电费查询工具开发实战，一键运行免配置</h1><p>作者：于济伟（2234300558@example.com）</p>
+        <![CDATA[<h1>校园卡电子元件采购清单（立创 LCSC 可直购 | 按序编号版）</h1><p>作者：于济伟（2234300558@example.com）</p>
         
-          基于Python Tkinter开发宿舍电费查询工具，支持自动查询、低电量提醒、数据可视化及多平台推送，免配置可直接运行，适配Windows系统。
+          整理了30款常用电子元件的详细采购信息，严格按指定顺序编号，包含封装、型号、生产商及立创采购编号，可直接在立创商城采购。
         
-        <hr><p>本文2026-03-27首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于2026-03-27</p>]]>
+        <hr><p>本文2026-03-02首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于2026-03-02</p>]]>
       </description>
       
-        <category>Python项目</category><category>实用工具开发</category>
+        <category>电子工程</category><category>物料采购</category>
       
     </item>
     

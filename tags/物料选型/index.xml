@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>物料选型 on blog</title>
+    <link>https://yujiwei-777.github.io/tags/%E7%89%A9%E6%96%99%E9%80%89%E5%9E%8B/</link>
+    <description>Recent content from blog</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>2234300558@example.com (于济伟)</managingEditor>
+    <webMaster>2234300558@example.com (于济伟)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Mon, 02 Mar 2026 15:20:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://yujiwei-777.github.io/tags/%E7%89%A9%E6%96%99%E9%80%89%E5%9E%8B/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>校园卡电子元件采购清单（立创 LCSC 可直购 | 按序编号版）</title>
+      <link>https://yujiwei-777.github.io/post/excel/</link>
+      <pubDate>Mon, 02 Mar 2026 15:00:00 &#43;0800</pubDate>
+      <author>2234300558@example.com (于济伟)</author>
+      <guid>https://yujiwei-777.github.io/post/excel/</guid>
+      <description>
+        <![CDATA[<h1>校园卡电子元件采购清单（立创 LCSC 可直购 | 按序编号版）</h1><p>作者：于济伟（2234300558@example.com）</p>
+        
+          整理了30款常用电子元件的详细采购信息，严格按指定顺序编号，包含封装、型号、生产商及立创采购编号，可直接在立创商城采购。
+        
+        <hr><p>本文2026-03-02首发于<a href='https://yujiwei-777.github.io/'>blog</a>，最后修改于2026-03-02</p>]]>
+      </description>
+      
+        <category>电子工程</category><category>物料采购</category>
+      
+    </item>
+    
+  </channel>
+</rss>
